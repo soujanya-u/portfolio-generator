@@ -65,7 +65,3 @@ npm run dev
 
 
 
-
-
-[📄 Download Project Report (PDF)](./Portfolio_Generator_Report_Expanded.pdf)
-
